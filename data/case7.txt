@@ -1,0 +1,107 @@
+Clinical Geneticist: Okay, hmm, what question brought you to genetics today?
+
+Patient: My partner and I are planning pregnancy, and I carry cystic fibrosis.
+
+Clinical Geneticist: Was that found on carrier screening?
+
+Patient: Yes, a saliva test. It said CFTR variant.
+
+Clinical Geneticist: Okay, CFTR is the gene linked with cystic fibrosis.
+
+Patient: I thought carriers always get sick, so I panicked.
+
+Clinical Geneticist: Hmm, most carriers are healthy. Cystic fibrosis usually needs two pathogenic variants.
+
+Patient: Okay, that is good to hear.
+
+Clinical Geneticist: Any symptoms for you, like chronic cough or sinus infections?
+
+Patient: I get sinusitis a lot, but no daily lung cough.
+
+Clinical Geneticist: Any pancreatitis or digestion trouble?
+
+Patient: No pancreatitis. I do get bloating, but nothing major.
+
+Clinical Geneticist: Any fertility issues or pregnancies before?
+
+Patient: No pregnancies. We just started trying.
+
+Clinical Geneticist: What medications do you take?
+
+Patient: Levothyroxine for hypothyroidism, loratadine for hay fever, and folic acid.
+
+Clinical Geneticist: Any allergies?
+
+Patient: Shellfish, hmm, I get hives.
+
+Clinical Geneticist: Smoking, alcohol, or other substances?
+
+Patient: No smoking or drugs. Wine maybe once a month.
+
+Clinical Geneticist: Exercise and work?
+
+Patient: I’m 28, born in Cape Town, and I’m a dental nurse. I do yoga.
+
+Clinical Geneticist: And your background?
+
+Patient: South African, mixed Dutch, Xhosa, and English ancestry.
+
+Clinical Geneticist: Tell me about your parents.
+
+Patient: Mum, Lindiwe, is 55, born in Durban. She has asthma and high blood pressure.
+
+Clinical Geneticist: Any lung disease or digestive disease in her relatives?
+
+Patient: Her nephew had repeated chest infections, but no diagnosis.
+
+Clinical Geneticist: And your father?
+
+Patient: Dad, Peter, is 57, born in Johannesburg. He has diabetes and high cholesterol.
+
+Clinical Geneticist: Any siblings?
+
+Patient: One brother, 24, healthy, but he had surgery for nasal polyps.
+
+Clinical Geneticist: Pardon, nasal polyps in your brother?
+
+Patient: Yes, okay, polyps, blocked nose all the time.
+
+Clinical Geneticist: That can be relevant, though not diagnostic by itself.
+
+Patient: Right, hmm.
+
+Clinical Geneticist: Any children in the wider family with cystic fibrosis?
+
+Patient: My mother’s cousin had a baby who died young from lung infections.
+
+Clinical Geneticist: Do you know the age or cause?
+
+Patient: Around two years old, maybe pneumonia. It was in the 1990s.
+
+Clinical Geneticist: Any miscarriages, stillbirths, or birth defects in the family?
+
+Patient: My aunt had two miscarriages. No cleft lip or heart defects.
+
+Clinical Geneticist: Any developmental delay, deafness, blindness, or learning disorder?
+
+Patient: A cousin has learning difficulties, but no one knows why.
+
+Clinical Geneticist: Any cancer, stroke, Alzheimer’s, or mental health issues?
+
+Patient: Grandma had breast cancer at 69. Granddad had a stroke at 75.
+
+Clinical Geneticist: Are vaccines and dental checkups up to date?
+
+Patient: Yes, very much, because of my job.
+
+Clinical Geneticist: For cystic fibrosis, your partner’s carrier test is the key next step.
+
+Patient: If he is negative, there is zero risk?
+
+Clinical Geneticist: Not zero, hmm, but much lower, because tests do not find every variant.
+
+Patient: Okay, yes, that makes sense.
+
+Clinical Geneticist: If both of you are carriers, each pregnancy has a 25% chance to be affected.
+
+Patient: Okay, then we would want to discuss IVF or prenatal testing.

@@ -1,0 +1,123 @@
+Clinical Geneticist: Okay, hmm, what are we focusing on today?
+
+Patient: My daughter has been bruising a lot, and I’m worried about haemophilia.
+
+Clinical Geneticist: How old is your daughter?
+
+Patient: She’s six, her name is Maya, born in Chicago.
+
+Clinical Geneticist: What kind of bleeding has she had?
+
+Patient: Nosebleeds, huge bruises, and bleeding after a tooth came out.
+
+Clinical Geneticist: Any bleeding into joints, like swollen knees or ankles?
+
+Patient: Hmm, her right ankle swelled once after a small fall.
+
+Clinical Geneticist: Was her clotting tested?
+
+Patient: Yes, they said factor VIII was low.
+
+Clinical Geneticist: Okay, factor VIII deficiency fits haemophilia A.
+
+Patient: But I thought girls cannot have haemophilia.
+
+Clinical Geneticist: Girls can be affected, though it is less common. Carriers can also have low factor levels.
+
+Patient: Okay, yes, I didn’t know that.
+
+Clinical Geneticist: Any medications she takes?
+
+Patient: Just cetirizine for allergies. We avoid aspirin now.
+
+Clinical Geneticist: Good. Aspirin and ibuprofen can worsen bleeding.
+
+Patient: Pardon, ibuprofen too?
+
+Clinical Geneticist: Yes, it can affect platelets, so ask haematology first.
+
+Patient: Okay, we will.
+
+Clinical Geneticist: Any surgeries or hospital visits?
+
+Patient: She had ear tubes at age three and bled longer than expected.
+
+Clinical Geneticist: Any asthma, eczema, or immunization issues?
+
+Patient: Mild eczema. Vaccines are up to date, but shots bruise.
+
+Clinical Geneticist: Tell me about your own health.
+
+Patient: I’m 34, born in Detroit, African American and Mexican background.
+
+Clinical Geneticist: Heavy periods or bleeding after dental work?
+
+Patient: Yes, hmm, heavy periods since I was a teenager.
+
+Clinical Geneticist: Any medications for you?
+
+Patient: Iron tablets for anaemia and sertraline for depression.
+
+Clinical Geneticist: Smoking, alcohol, exercise?
+
+Patient: No smoking, wine rarely, and I walk after work.
+
+Clinical Geneticist: What work do you do?
+
+Patient: I’m a pharmacy technician.
+
+Clinical Geneticist: Tell me about Maya’s father.
+
+Patient: He’s 36, born in Dallas, healthy, just high cholesterol.
+
+Clinical Geneticist: Any bleeding problems on his side?
+
+Patient: No, not that they know.
+
+Clinical Geneticist: Your parents?
+
+Patient: My mum, Elena, is 58, born in Mexico City, and has diabetes.
+
+Clinical Geneticist: Any heavy bleeding for her?
+
+Patient: Yes, she had a hysterectomy for heavy bleeding in her forties.
+
+Clinical Geneticist: And your father?
+
+Patient: My dad died at 50 from a stroke. He had high blood pressure.
+
+Clinical Geneticist: Any brothers or sisters?
+
+Patient: One brother, Luis, died at 12 after bleeding in his head.
+
+Clinical Geneticist: I’m sorry. Was it called intracranial haemorrhage?
+
+Patient: Yes, okay, that sounds right. They said “bleeding disorder.”
+
+Clinical Geneticist: That is very important for the family history.
+
+Patient: I didn’t connect it until Maya’s labs came back.
+
+Clinical Geneticist: Any other children?
+
+Patient: One son, age ten, healthy, but he bruises after football.
+
+Clinical Geneticist: He should probably have coagulation studies too.
+
+Patient: Okay, hmm, I’ll ask.
+
+Clinical Geneticist: On your mother’s side, any uncles with bleeding?
+
+Patient: Mum’s brother needed transfusions after a car accident.
+
+Clinical Geneticist: Any cancer, birth defects, deafness, or learning delay?
+
+Patient: No birth defects. My aunt had breast cancer at 62.
+
+Clinical Geneticist: Haemophilia A is usually X-linked, involving the F8 gene.
+
+Patient: So I may have carried it to both kids?
+
+Clinical Geneticist: Yes, that is possible, and testing can clarify who is affected or a carrier.
+
+Patient: Okay, yes, I want answers before Maya has any more dental work.

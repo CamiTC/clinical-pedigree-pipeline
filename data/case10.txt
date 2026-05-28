@@ -1,0 +1,119 @@
+Clinical Geneticist: Okay, hmm, what brought your daughter to genetics today?
+
+Patient: Yes, our baby was born with very pale hair and eye shaking.
+
+Clinical Geneticist: How old is she now?
+
+Patient: She is eight months, born in Lyon, and her name is Noor.
+
+Clinical Geneticist: The eye shaking is called nystagmus.
+
+Patient: Yes, okay, the eye doctor said that word.
+
+Clinical Geneticist: Any concerns with vision?
+
+Patient: She follows faces, but bright light really bothers her.
+
+Clinical Geneticist: That light sensitivity is photophobia. Any skin burning?
+
+Patient: Hmm, yes, she got red quickly near a window.
+
+Clinical Geneticist: Does she have very fair skin compared with the family?
+
+Patient: Very fair, almost white hair, blue-grey eyes.
+
+Clinical Geneticist: Has albinism been discussed?
+
+Patient: Yes, but I thought albinism means totally blind.
+
+Clinical Geneticist: Not totally blind, usually reduced visual acuity, nystagmus, and sun sensitivity.
+
+Patient: Okay, that’s less frightening, hmm.
+
+Clinical Geneticist: Any bleeding problems or frequent infections?
+
+Patient: No, none so far.
+
+Clinical Geneticist: Good. Some rare syndromic forms can include those, so I ask.
+
+Patient: She only takes vitamin D drops.
+
+Clinical Geneticist: Any allergies or surgeries?
+
+Patient: No allergies, no surgeries.
+
+Clinical Geneticist: How was pregnancy and birth?
+
+Patient: Full term, normal delivery, no complications.
+
+Clinical Geneticist: Any developmental concerns?
+
+Patient: She sits with support, babbles, seems social.
+
+Clinical Geneticist: And immunizations?
+
+Patient: Yes, up to date.
+
+Clinical Geneticist: Tell me about you and her father.
+
+Patient: I’m 30, born in Marseille, Algerian and French background.
+
+Clinical Geneticist: Any vision issues or pale colouring for you?
+
+Patient: No, I have dark hair, but I’m short-sighted.
+
+Clinical Geneticist: And Noor’s father?
+
+Patient: Sami is 32, born in Tunis. Healthy, mild asthma.
+
+Clinical Geneticist: Are you related by blood?
+
+Patient: Hmm, yes, our grandmothers were sisters.
+
+Clinical Geneticist: Okay, that can increase the chance of autosomal recessive conditions.
+
+Patient: Pardon?
+
+Clinical Geneticist: It means both parents may carry the same gene change.
+
+Patient: Ah, okay, yes.
+
+Clinical Geneticist: Any other children?
+
+Patient: One son, age four, healthy, brown hair, no vision problems.
+
+Clinical Geneticist: Any miscarriages?
+
+Patient: One early miscarriage before Noor.
+
+Clinical Geneticist: Your parents’ health?
+
+Patient: Mum is 56, born in Oran, has diabetes. Dad is 60, high blood pressure.
+
+Clinical Geneticist: Siblings?
+
+Patient: Two sisters, both healthy, one has allergies.
+
+Clinical Geneticist: On either side, anyone with albinism, blindness, or early hearing loss?
+
+Patient: My husband’s cousin has pale skin and poor vision, actually.
+
+Clinical Geneticist: That is very relevant.
+
+Patient: I forgot because he lives in Tunisia.
+
+Clinical Geneticist: Any birth defects, cleft lip, heart defects, or spina bifida?
+
+Patient: No, not that I know.
+
+Clinical Geneticist: Any cancer, stroke, Alzheimer’s, or mental health disorders?
+
+Patient: Grandfather had stroke at 72. Aunt had depression.
+
+Clinical Geneticist: Lifestyle-wise, any sun protection routine yet?
+
+Patient: We use hats and shade, but sunscreen confused me.
+
+Clinical Geneticist: Okay, sun protection and ophthalmology follow-up are important.
+
+Patient: Yes, hmm, we want testing so family understands this properly.

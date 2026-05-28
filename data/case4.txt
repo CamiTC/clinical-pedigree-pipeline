@@ -1,0 +1,123 @@
+Clinical Geneticist: Okay, hmm, what were you hoping to discuss today?
+
+Patient: Yes, I was told I might have haemochromatosis.
+
+Clinical Geneticist: What led to that testing?
+
+Patient: I’ve been exhausted, my joints ache, and my liver enzymes were high.
+
+Clinical Geneticist: Which joints bother you most?
+
+Patient: Mostly my knuckles and wrists, especially in the morning.
+
+Clinical Geneticist: Any abdominal pain or skin darkening?
+
+Patient: Hmm, yes, my wife says I look tanned all year.
+
+Clinical Geneticist: Have they checked your ferritin and transferrin saturation?
+
+Patient: Ferritin, yes. Pardon, the second one?
+
+Clinical Geneticist: Transferrin saturation, how much iron is carried in the blood.
+
+Patient: Oh, okay. Yes, it was high too.
+
+Clinical Geneticist: Any diabetes or heart rhythm problems?
+
+Patient: No diabetes. I had one episode of atrial fibrillation last year.
+
+Clinical Geneticist: Are you on medication now?
+
+Patient: Apixaban after that episode, and omeprazole sometimes.
+
+Clinical Geneticist: Any iron tablets or vitamin C supplements?
+
+Patient: I used to take multivitamins with iron, but stopped.
+
+Clinical Geneticist: Good. Any surgeries?
+
+Patient: Gallbladder removed at 38, nothing else.
+
+Clinical Geneticist: Do you drink alcohol?
+
+Patient: Hmm, yes, maybe three beers most evenings.
+
+Clinical Geneticist: With iron overload, reducing alcohol is important for liver health.
+
+Patient: Okay, yes, I thought beer did not count much.
+
+Clinical Geneticist: It does count. What about smoking and exercise?
+
+Patient: I quit smoking ten years ago. I cycle on weekends.
+
+Clinical Geneticist: And your work?
+
+Patient: I’m 46, a bus mechanic, born in Glasgow.
+
+Clinical Geneticist: What is your family background?
+
+Patient: Mostly Scottish and Irish, as far as I know.
+
+Clinical Geneticist: Tell me about your parents.
+
+Patient: My dad, Colin, was born in 1950 in Aberdeen and died at 59.
+
+Clinical Geneticist: What was the cause?
+
+Patient: Liver cancer, but he was told it was from drinking.
+
+Clinical Geneticist: Any known cirrhosis or iron problems?
+
+Patient: Cirrhosis, yes. Iron, hmm, nobody mentioned it.
+
+Clinical Geneticist: And your mother?
+
+Patient: Mum, Margaret, is 72, born in Belfast. She has arthritis and high blood pressure.
+
+Clinical Geneticist: Any brothers or sisters?
+
+Patient: One sister, 43, healthy, but she has high cholesterol.
+
+Clinical Geneticist: Any children?
+
+Patient: Two sons, 19 and 15. Both healthy, vaccinated, sporty.
+
+Clinical Geneticist: Any pregnancy losses in the family?
+
+Patient: My wife had one miscarriage between the boys.
+
+Clinical Geneticist: On your father’s side, any diabetes, heart disease, or liver disease?
+
+Patient: Dad’s brother had diabetes and died after a stroke at 68.
+
+Clinical Geneticist: Any cancer besides your father’s liver cancer?
+
+Patient: My grandmother had colon cancer in her seventies.
+
+Clinical Geneticist: Any Alzheimer’s, developmental delay, deafness, or birth defects?
+
+Patient: No birth defects. Granddad had dementia late in life.
+
+Clinical Geneticist: Haemochromatosis is usually autosomal recessive, often involving the HFE gene.
+
+Patient: So my sons will definitely get it?
+
+Clinical Geneticist: Not definitely. They may be carriers unless your wife also carries a variant.
+
+Patient: Okay, hmm, that’s a relief.
+
+Clinical Geneticist: Your sister should consider iron studies and possibly genetic testing too.
+
+Patient: Yes, I’ll tell her. She hates doctors, but I’ll try.
+
+Clinical Geneticist: Have you started venesection?
+
+Patient: Pardon?
+
+Clinical Geneticist: Regular blood removal, also called phlebotomy, to lower iron.
+
+Patient: Not yet, but hepatology mentioned it.
+
+Clinical Geneticist: Okay, that fits. We’ll connect the genetic result with your ferritin, liver scan, and family history.
+
+Patient: Yes, okay, I just want to avoid what happened to my dad.

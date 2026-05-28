@@ -1,0 +1,119 @@
+Clinical Geneticist: Okay, hmm, what is the main reason for today’s appointment?
+
+Patient: My son’s school suggested genetic testing because of learning problems.
+
+Clinical Geneticist: How old is your son?
+
+Patient: He is nine, born in Valencia, and his name is Mateo.
+
+Clinical Geneticist: What difficulties is Mateo having?
+
+Patient: Reading is hard, he gets anxious, and he has big meltdowns.
+
+Clinical Geneticist: Any speech delay when he was little?
+
+Patient: Yes, hmm, he barely spoke clearly until almost four.
+
+Clinical Geneticist: Any features like long face, large ears, or flexible joints?
+
+Patient: Yes, he has big ears, and his fingers bend back a lot.
+
+Clinical Geneticist: Has anyone mentioned Fragile X syndrome?
+
+Patient: Yes, but I thought that only affects girls.
+
+Clinical Geneticist: Actually, boys are often more affected. Girls can also have symptoms.
+
+Patient: Okay, yes, I misunderstood that.
+
+Clinical Geneticist: Any autism spectrum diagnosis or ADHD?
+
+Patient: ADHD, yes. Autism assessment is pending.
+
+Clinical Geneticist: Any seizures?
+
+Patient: No seizures, thankfully.
+
+Clinical Geneticist: Medications?
+
+Patient: Methylphenidate for attention, melatonin at night, and salbutamol for asthma.
+
+Clinical Geneticist: Any allergies or surgeries?
+
+Patient: Peanut allergy. He had tonsils removed at six.
+
+Clinical Geneticist: How is his vision and hearing?
+
+Patient: Hearing is okay. He wears glasses for myopia.
+
+Clinical Geneticist: Tell me about lifestyle at home.
+
+Patient: He swims weekly, loves trains, eats picky but okay, no smoke exposure.
+
+Clinical Geneticist: Are immunizations and dental checks current?
+
+Patient: Yes, vaccines are up to date, dentist every six months.
+
+Clinical Geneticist: Now your side of the family, okay?
+
+Patient: Yes, I’m Ana, 38, born in Seville, Spanish and Moroccan background.
+
+Clinical Geneticist: Any learning difficulties for you?
+
+Patient: Mild, yes. I struggled in school, but I work as a florist now.
+
+Clinical Geneticist: Mateo’s father?
+
+Patient: Carlos is 40, born in Madrid. He has high blood pressure, no learning issues.
+
+Clinical Geneticist: Any other children?
+
+Patient: One daughter, Lucia, age six. She has speech therapy but is doing well.
+
+Clinical Geneticist: Any miscarriages?
+
+Patient: One miscarriage before Mateo, around eight weeks.
+
+Clinical Geneticist: Tell me about your parents.
+
+Patient: My mother, Samira, is 62, born in Tangier. She has anxiety and early menopause.
+
+Clinical Geneticist: Early menopause can be relevant in Fragile X premutation carriers.
+
+Patient: Pardon?
+
+Clinical Geneticist: Some women with a premutation can have ovarian insufficiency.
+
+Patient: Oh, okay, she stopped periods at 38.
+
+Clinical Geneticist: And your father?
+
+Patient: Rafael is 65, born in Granada. Diabetes and high cholesterol.
+
+Clinical Geneticist: Any siblings?
+
+Patient: My brother, 35, has intellectual disability and lives with my parents.
+
+Clinical Geneticist: That is important. Any maternal uncles with learning delay?
+
+Patient: Yes, Mum’s brother never lived independently. We called him slow, sadly.
+
+Clinical Geneticist: Any birth defects, cleft lip, heart defects, or spina bifida?
+
+Patient: No, none that I know.
+
+Clinical Geneticist: Any cancer, stroke, blindness, deafness, or Alzheimer’s?
+
+Patient: Grandma had Alzheimer’s late. An aunt had breast cancer at 58.
+
+Clinical Geneticist: Fragile X is X-linked and involves FMR1 repeat expansion.
+
+Patient: So Carlos must have caused it?
+
+Clinical Geneticist: Not necessarily. The pattern you describe points more toward your maternal side.
+
+Patient: Hmm, okay, that makes sense.
+
+Clinical Geneticist: Testing Mateo first can clarify whether FMR1 is involved.
+
+Patient: Yes, okay, I want answers for him and maybe for Lucia too.

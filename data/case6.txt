@@ -1,0 +1,119 @@
+Clinical Geneticist: Okay, hmm, what has made genetics come up for you?
+
+Patient: My wife is pregnant, and my cousin’s baby had Tay-Sachs disease.
+
+Clinical Geneticist: Okay, yes, so you’re asking about carrier risk?
+
+Patient: Exactly. I’m scared we could have an affected baby too.
+
+Clinical Geneticist: Have you had any symptoms yourself?
+
+Patient: No, I’m healthy, but I know carriers usually are.
+
+Clinical Geneticist: That’s right. Carriers typically have no symptoms.
+
+Patient: Okay, that part confused me a bit.
+
+Clinical Geneticist: Tay-Sachs is usually autosomal recessive, meaning both parents must carry a pathogenic variant.
+
+Patient: So if only I carry it, the baby gets sick?
+
+Clinical Geneticist: No, hmm, if only one parent carries it, the child may be a carrier, not usually affected.
+
+Patient: Okay, that helps.
+
+Clinical Geneticist: What is your age and background?
+
+Patient: I’m 31, born in New York. My family is Ashkenazi Jewish on both sides.
+
+Clinical Geneticist: And your wife’s background?
+
+Patient: She’s 29, born in Toronto, French Canadian and Irish.
+
+Clinical Geneticist: Any carrier screening done yet?
+
+Patient: Pardon?
+
+Clinical Geneticist: Blood or saliva testing to see whether you carry the Tay-Sachs gene change.
+
+Patient: Oh, yes. I had a panel, but we’re waiting.
+
+Clinical Geneticist: Any medications for you?
+
+Patient: Just cetirizine for allergies and vitamin D.
+
+Clinical Geneticist: Any surgeries or hospital admissions?
+
+Patient: Appendix removed at 16. Nothing major since.
+
+Clinical Geneticist: Smoking, alcohol, or recreational drugs?
+
+Patient: No smoking, no drugs. I drink wine on holidays.
+
+Clinical Geneticist: Exercise and diet?
+
+Patient: I run twice a week, mostly vegetarian, lots of coffee.
+
+Clinical Geneticist: What do you do for work?
+
+Patient: I’m an accountant, so, hmm, mostly sitting.
+
+Clinical Geneticist: Tell me about your parents.
+
+Patient: My mother, Ruth, is 60, born in Brooklyn. She has asthma and depression.
+
+Clinical Geneticist: Any neurological disease or developmental delay in her family?
+
+Patient: Her niece, my cousin’s baby, had seizures and developmental regression.
+
+Clinical Geneticist: Was that confirmed as Tay-Sachs?
+
+Patient: Yes, by enzyme testing, I think hexosaminidase A.
+
+Clinical Geneticist: Okay, Hex A enzyme deficiency fits Tay-Sachs.
+
+Patient: The baby died at age three, which was awful.
+
+Clinical Geneticist: I’m sorry. Your father?
+
+Patient: David is 63, born in Queens. High cholesterol, no genetic condition known.
+
+Clinical Geneticist: Any siblings?
+
+Patient: One sister, 27, healthy, no children.
+
+Clinical Geneticist: Any children already?
+
+Patient: No, this is our first pregnancy, twelve weeks.
+
+Clinical Geneticist: Any miscarriages for your wife?
+
+Patient: One early miscarriage last year, around seven weeks.
+
+Clinical Geneticist: On either side, any blindness, deafness, birth defects, or spina bifida?
+
+Patient: No birth defects. My grandma lost vision from diabetes late in life.
+
+Clinical Geneticist: Any Alzheimer’s, cancer, heart disease, or stroke?
+
+Patient: Grandfather had colon cancer at 74. Dad’s brother had a stroke at 70.
+
+Clinical Geneticist: Any substance abuse or severe mental health disorders?
+
+Patient: An uncle had alcohol problems. Mum’s depression is controlled.
+
+Clinical Geneticist: Are immunizations and routine checkups up to date?
+
+Patient: Yes, dentist too, although I hate going.
+
+Clinical Geneticist: Hmm, if you are a carrier, testing your wife is the key next step.
+
+Patient: And if we both carry it?
+
+Clinical Geneticist: Then each pregnancy has a 25% chance to be affected.
+
+Patient: Okay, yes, scary, but clearer now.
+
+Clinical Geneticist: We can also discuss prenatal diagnosis, like chorionic villus sampling or amniocentesis, if needed.
+
+Patient: Okay, I’d like to understand that before the results come back.

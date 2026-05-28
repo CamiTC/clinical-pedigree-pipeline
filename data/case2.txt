@@ -1,0 +1,115 @@
+Clinical Geneticist: So, okay, what concerns brought you here today?
+
+Patient: Hmm, my eye doctor mentioned possible Marfan syndrome.
+
+Clinical Geneticist: What made them say that?
+
+Patient: I’m very tall, my joints are loose, and my lens shifted.
+
+Clinical Geneticist: The lens dislocation is called ectopia lentis.
+
+Patient: Yes, that was the word, I think.
+
+Clinical Geneticist: Any heart checks done?
+
+Patient: Yes, an echocardiogram showed mild aortic root dilation.
+
+Clinical Geneticist: Okay, that is important. Any chest pain or breathlessness?
+
+Patient: No chest pain, but I get palpitations sometimes.
+
+Clinical Geneticist: Any scoliosis, flat feet, or chest wall changes?
+
+Patient: Yes, scoliosis as a teenager, and my chest sinks in a bit.
+
+Clinical Geneticist: Pectus excavatum, okay. Any surgeries?
+
+Patient: Spinal brace only, no surgery. I had eye surgery last year.
+
+Clinical Geneticist: What medications do you take?
+
+Patient: Atenolol for the aorta, and eye drops after surgery.
+
+Clinical Geneticist: Any allergies?
+
+Patient: Hmm, no medication allergies.
+
+Clinical Geneticist: Do you smoke or drink?
+
+Patient: No smoking. I drink beer sometimes, maybe twice a month.
+
+Clinical Geneticist: And exercise?
+
+Patient: I swim gently. I stopped heavy weights after the cardiologist warned me.
+
+Clinical Geneticist: Good. What is your occupation?
+
+Patient: I’m a graphic designer, mostly desk work.
+
+Clinical Geneticist: Tell me your age and background.
+
+Patient: I’m 27, born in Manchester. My family is Pakistani and British.
+
+Clinical Geneticist: Your parents’ health?
+
+Patient: Mum, Aisha, is 52, born in Lahore. She has high blood pressure.
+
+Clinical Geneticist: Any tall build or eye problems in her?
+
+Patient: No, she’s average height, wears glasses only.
+
+Clinical Geneticist: And your father?
+
+Patient: Dad, Imran, died at 39 from what they called a burst aorta.
+
+Clinical Geneticist: Hmm, an aortic dissection?
+
+Patient: Pardon?
+
+Clinical Geneticist: A tear in the main artery from the heart.
+
+Patient: Yes, okay, that sounds like what happened.
+
+Clinical Geneticist: Any siblings?
+
+Patient: One sister, 24. She’s tall and has flexible fingers, but no testing.
+
+Clinical Geneticist: Any children?
+
+Patient: No children yet. My partner and I are thinking about it.
+
+Clinical Geneticist: Marfan syndrome is often autosomal dominant, so each child could have a 50% chance if you carry the FBN1 variant.
+
+Patient: So it skips generations?
+
+Clinical Geneticist: It can look that way, but usually one altered copy is enough.
+
+Patient: Okay, yeah, I misunderstood that.
+
+Clinical Geneticist: Any miscarriages or pregnancy issues in close relatives?
+
+Patient: My mum had one miscarriage before me.
+
+Clinical Geneticist: What about your father’s side?
+
+Patient: His brother is very tall and had retinal detachment at 45.
+
+Clinical Geneticist: Any heart disease or strokes there?
+
+Patient: Grandfather died suddenly in his 50s, maybe heart disease.
+
+Clinical Geneticist: Any cancer, diabetes, asthma, or learning disorders?
+
+Patient: Diabetes on Mum’s side. No developmental delay or birth defects.
+
+Clinical Geneticist: Any hearing loss, blindness, or cleft lip in the family?
+
+Patient: No, not that I know of.
+
+Clinical Geneticist: Are your immunizations and dental checks up to date?
+
+Patient: Yes, mostly. Dentist every year, vaccines up to date.
+
+Clinical Geneticist: Okay, genetic testing can look for an FBN1 pathogenic variant.
+
+Patient: Yes, hmm, I’d like that, especially for my sister and future kids.

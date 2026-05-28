@@ -1,0 +1,111 @@
+Clinical Geneticist: So, hmm, tell me what brought you in today.
+
+Patient: Yeah, okay, mostly burning pain in my hands and feet.
+
+Clinical Geneticist: When did that start?
+
+Patient: Since childhood, really. Worse with heat or exercise.
+
+Clinical Geneticist: Any sweating problems?
+
+Patient: Yes, I barely sweat, even when others are drenched.
+
+Clinical Geneticist: Okay, and any skin changes?
+
+Patient: Tiny dark red spots, around my hips and lower belly.
+
+Clinical Geneticist: Those may be angiokeratomas. Any kidney issues?
+
+Patient: My GP found proteinuria last year, but my creatinine is okay.
+
+Clinical Geneticist: Hmm, any heart symptoms like palpitations or chest pain?
+
+Patient: Sometimes palpitations, yes. No real chest pain.
+
+Clinical Geneticist: Have you had an echocardiogram?
+
+Patient: Pardon?
+
+Clinical Geneticist: An ultrasound scan of the heart.
+
+Patient: Oh, yes, it showed mild left ventricular hypertrophy.
+
+Clinical Geneticist: Okay. Any medications currently?
+
+Patient: Ramipril for the protein in urine, and gabapentin for neuropathic pain.
+
+Clinical Geneticist: Any allergies?
+
+Patient: Penicillin, I get a rash.
+
+Clinical Geneticist: Do you smoke or drink?
+
+Patient: No smoking. Wine maybe once a week.
+
+Clinical Geneticist: Exercise?
+
+Patient: I walk, but intense exercise triggers the burning pain.
+
+Clinical Geneticist: What work do you do?
+
+Patient: I’m a primary school teacher.
+
+Clinical Geneticist: Okay, let’s map your family. Your age and background?
+
+Patient: I’m 34, born in Utrecht. My family is Dutch and Surinamese.
+
+Clinical Geneticist: Your parents?
+
+Patient: Mum is 62, born in Rotterdam. She has hearing loss and kidney problems.
+
+Clinical Geneticist: Any similar pain for her?
+
+Patient: She says she had “growing pains,” hmm, maybe the same thing.
+
+Clinical Geneticist: And your father?
+
+Patient: Dad is 65, healthy mostly, high cholesterol.
+
+Clinical Geneticist: Siblings?
+
+Patient: One brother, 30. He has stomach cramps, pain in his feet, and proteinuria too.
+
+Clinical Geneticist: That is important. Children?
+
+Patient: Two daughters, ages 8 and 5. Both healthy.
+
+Clinical Geneticist: Any miscarriages or pregnancy complications?
+
+Patient: One early miscarriage before my first daughter.
+
+Clinical Geneticist: On your mother’s side, any uncles?
+
+Patient: Yes, Mum’s brother died at 41 from kidney failure and a stroke.
+
+Clinical Geneticist: Hmm, that pattern can fit Fabry disease, which is X-linked.
+
+Patient: X-linked means only men get it?
+
+Clinical Geneticist: Not exactly. Men are often more severely affected, but women can have symptoms too.
+
+Patient: Okay, that makes sense.
+
+Clinical Geneticist: Maternal grandparents?
+
+Patient: Grandma died at 70, heart disease. Grandpa died in his 80s, Alzheimer’s.
+
+Clinical Geneticist: Any blindness, deafness young, birth defects, or developmental delay?
+
+Patient: No birth defects. My uncle had hearing loss before he died.
+
+Clinical Geneticist: Any cancers, diabetes, or autoimmune disease?
+
+Patient: Dad’s sister had breast cancer at 55. No diabetes that I know.
+
+Clinical Geneticist: Immunizations up to date?
+
+Patient: Yes, including flu and COVID boosters.
+
+Clinical Geneticist: We would consider GLA gene testing and enzyme testing, especially for your brother.
+
+Patient: Okay, yes, I’d like to understand this for my girls too.

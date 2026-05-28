@@ -1,0 +1,115 @@
+Clinical Geneticist: Okay, hmm, what made you come in today?
+
+Patient: My mother was diagnosed with Huntington’s disease last year.
+
+Clinical Geneticist: I see. Are you asking about your own risk?
+
+Patient: Yes, exactly. I’m 36, and I’m honestly worried.
+
+Clinical Geneticist: Have you noticed any symptoms yourself?
+
+Patient: Maybe. I get twitchy movements, but it might be stress.
+
+Clinical Geneticist: What sort of movements?
+
+Patient: Little jerks in my fingers and shoulders, not constant.
+
+Clinical Geneticist: Any balance issues or falls?
+
+Patient: Hmm, no falls, but I feel clumsy sometimes.
+
+Clinical Geneticist: Any changes with mood, memory, or concentration?
+
+Patient: Yes, I’m more anxious and forget appointments lately.
+
+Clinical Geneticist: That can have many causes, not only Huntington’s.
+
+Patient: Okay, yes, I keep assuming the worst.
+
+Clinical Geneticist: Any medications at the moment?
+
+Patient: Sertraline for anxiety, and propranolol sometimes for tremor.
+
+Clinical Geneticist: Any allergies or surgeries?
+
+Patient: No allergies. Appendix surgery when I was 20.
+
+Clinical Geneticist: Do you smoke or drink?
+
+Patient: I don’t smoke. I drink two glasses of wine on weekends.
+
+Clinical Geneticist: Exercise and diet?
+
+Patient: I jog twice a week, eat mostly home-cooked food.
+
+Clinical Geneticist: What work do you do?
+
+Patient: I’m a librarian, born in Cardiff, Welsh and English background.
+
+Clinical Geneticist: Tell me about your mother.
+
+Patient: Mum, Helen, is 61, born in Swansea. She has chorea and depression.
+
+Clinical Geneticist: Chorea means involuntary dance-like movements.
+
+Patient: Pardon?
+
+Clinical Geneticist: Involuntary movements, often irregular and unpredictable.
+
+Patient: Yes, okay, that’s definitely her.
+
+Clinical Geneticist: When did her symptoms start?
+
+Patient: Around 55, with mood changes first.
+
+Clinical Geneticist: Was genetic testing done?
+
+Patient: Yes, she has an expanded HTT CAG repeat.
+
+Clinical Geneticist: Okay, that confirms Huntington’s disease.
+
+Patient: My dad is 64, born in Bristol, with high blood pressure.
+
+Clinical Geneticist: Any neurological disease on his side?
+
+Patient: No, mostly heart disease and high cholesterol.
+
+Clinical Geneticist: Do you have siblings?
+
+Patient: One older brother, 39. He refuses testing and seems fine.
+
+Clinical Geneticist: Any children?
+
+Patient: One daughter, age 7, healthy, no developmental delay.
+
+Clinical Geneticist: Any pregnancy losses?
+
+Patient: No, one pregnancy, normal delivery.
+
+Clinical Geneticist: On your mother’s side, anyone similar?
+
+Patient: Her father died at 58, called alcoholism, but he had odd movements.
+
+Clinical Geneticist: Hmm, sometimes symptoms are misunderstood in families.
+
+Patient: My aunt, Mum’s sister, has depression but no movements yet.
+
+Clinical Geneticist: Any cancer, diabetes, stroke, deafness, blindness, or birth defects?
+
+Patient: Grandma had breast cancer at 70. No birth defects or early hearing loss.
+
+Clinical Geneticist: Huntington’s is autosomal dominant, so each child of an affected person has a 50% chance.
+
+Patient: So I definitely passed it to my daughter?
+
+Clinical Geneticist: Not definitely. Only if you inherited the expansion could you pass it on.
+
+Patient: Okay, yes, I needed to hear that.
+
+Clinical Geneticist: Predictive testing is available, but we pair it with counselling.
+
+Patient: Hmm, I want testing, but I’m scared of knowing.
+
+Clinical Geneticist: That reaction is very common, and we can talk through timing, insurance concerns, and support.
+
+Patient: Okay, I’d like that, especially before making more family plans.
