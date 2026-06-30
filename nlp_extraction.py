@@ -2,7 +2,6 @@ import re
 import spacy
 import logging
 import medspacy
-
 from loguru import logger
 from transformers import pipeline
 from medspacy.target_matcher import TargetRule
@@ -11,19 +10,17 @@ from spacy.util import filter_spans
 # load spaCy
 spcy_nlp = spacy.load("en_core_web_sm")
 
-# disables logs
+# disables warning logs
 logging.getLogger("PyRuSH").setLevel(logging.WARNING)
 logger.disable("PyRuSH")
 
 
 # -------------------
-# Global Variables
+# Global variables
 # -------------------
 
-FEMALE_RELATIVES = {"mother", "grandmother", "great-grandmother", "aunt", "great-aunt",
-                    "sister", "daughter", "wife", "niece"}
-MALE_RELATIVES   = {"father", "grandfather", "great-grandfather", "uncle", "great-uncle",
-                    "brother", "son", "husband", "nephew"}
+FEMALE_RELATIVES = {"mother", "grandmother", "great-grandmother", "aunt", "great-aunt", "sister", "daughter", "wife", "niece"}
+MALE_RELATIVES = {"father", "grandfather", "great-grandfather", "uncle", "great-uncle", "brother", "son", "husband", "nephew"}
 
 SELF_TERMS = {"i", "me", "my", "mine"}
 
@@ -43,11 +40,7 @@ FAMILY_TERMS = {
     "wife", "husband", "partner"
 }
 
-NO_SIDE_RELATIVES = {
-    "brother", "sister", "son",
-    "daughter", "wife",
-    "husband", "partner"
-}
+NO_SIDE_RELATIVES = {"brother", "sister", "son", "daughter", "wife", "husband", "partner"}
 
 PLURAL_RELATIVES = {
     "sons": "son",
@@ -67,15 +60,8 @@ COMPOUND_RELATIVES = {
     "mother's father": "maternal grandfather"
 }
 
-MATERNAL_TERMS = [
-    "mom's", "mother's", "mom's side",
-    "mother's side", "maternal", "mum's"
-]
-
-PATERNAL_TERMS = [
-    "dad's", "father's", "dad's side",
-    "father's side", "paternal"
-]
+MATERNAL_TERMS = ["mom's", "mother's", "mom's side", "mother's side", "maternal", "mum's"]
+PATERNAL_TERMS = ["dad's", "father's", "dad's side", "father's side", "paternal"]
 
 PROBAND_PATTERNS = {
     "daughter": [
@@ -88,20 +74,20 @@ PROBAND_PATTERNS = {
         r"\bmy boy\b",
         r"\bhe\b.*\b(has|had|was|is|developed|diagnosed)\b"
     ],
-    "mother":      [r"\bmy mother\b", r"\bmy mum\b", r"\bmy mom\b"],
-    "father":      [r"\bmy father\b", r"\bmy dad\b"],
-    "sister":      [r"\bmy sister\b"],
-    "brother":     [r"\bmy brother\b"],
-    "aunt":                 [r"\bmy aunt\b"],
-    "uncle":                [r"\bmy uncle\b"],
-    "grandmother":          [r"\bmy grandmother\b"],
-    "grandfather":          [r"\bmy grandfather\b"],
-    "great-aunt":           [r"\bmy great[\s-]aunt\b"],
-    "great-uncle":          [r"\bmy great[\s-]uncle\b"],
-    "great-grandmother":    [r"\bmy great[\s-]grandmother\b"],
-    "great-grandfather":    [r"\bmy great[\s-]grandfather\b"],
-    "cousin":               [r"\bmy cousin\b"],
-    "cousin once removed":  [r"\bmy cousin once removed\b", r"\bmy (?:first )?cousin(?:'s)? (?:child|son|daughter|baby)\b"],
+    "mother": [r"\bmy mother\b", r"\bmy mum\b", r"\bmy mom\b"],
+    "father": [r"\bmy father\b", r"\bmy dad\b"],
+    "sister": [r"\bmy sister\b"],
+    "brother": [r"\bmy brother\b"],
+    "aunt": [r"\bmy aunt\b"],
+    "uncle": [r"\bmy uncle\b"],
+    "grandmother": [r"\bmy grandmother\b"],
+    "grandfather": [r"\bmy grandfather\b"],
+    "great-aunt": [r"\bmy great[\s-]aunt\b"],
+    "great-uncle": [r"\bmy great[\s-]uncle\b"],
+    "great-grandmother": [r"\bmy great[\s-]grandmother\b"],
+    "great-grandfather": [r"\bmy great[\s-]grandfather\b"],
+    "cousin": [r"\bmy cousin\b"],
+    "cousin once removed": [r"\bmy cousin once removed\b", r"\bmy (?:first )?cousin(?:'s)? (?:child|son|daughter|baby)\b"],
     "proband": [
         r"\bi have\b",
         r"\bi had\b",
@@ -122,6 +108,7 @@ def load_family_member_extractor():
     med_nlp = medspacy.load()
     matcher = med_nlp.get_pipe("medspacy_target_matcher")
 
+    # add family member extraction rules
     rules = [TargetRule(term, "FAMILY") for term in FAMILY_TERMS]
     matcher.add(rules)
 
@@ -146,6 +133,9 @@ biobert_ner = load_biobert_ner()
 # -------------------------------
 
 def extract_family_members(sentence):
+    """
+    Extracts family member entities from the text.
+    """
     doc = family_member_nlp(sentence)
     return [ent.text for ent in doc.ents if ent.label_ == "FAMILY"]
 
@@ -709,6 +699,7 @@ def should_add_proband(item, sentence, relatives, raw_conditions, proband_relati
         or any(term in sentence.lower() for term in STATUS_TERMS)
         or is_deceased(sentence)
     )
+    
     return (
         item["speaker"] == "patient"
         and has_relevant_info
