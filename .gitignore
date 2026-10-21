@@ -5,7 +5,10 @@ __pycache__/
 venv/
 node_modules/
 .Rproj.user
-outputs/
+outputs/graphs
+outputs/llm
+outputs/nlp
+outputs/preprocessed
 .Rhistory
 Rplots.pdf
 .vscode/
