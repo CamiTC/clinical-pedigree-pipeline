@@ -73,8 +73,7 @@ ax.legend(handles=[
 ax.yaxis.grid(True, linestyle="--", alpha=0.4, zorder=0)
 ax.set_axisbelow(True)
 plt.tight_layout()
-plt.savefig(f"{OUT}/f1_grouped_bar.png", dpi=150)
-print("Saved f1_grouped_bar.png")
+plt.savefig(f"{OUT}/f1_grouped_bar.png", dpi=400)
 plt.close()
 
 # -----------
@@ -113,7 +112,7 @@ ax.legend(handles=[
     mpatches.Patch(facecolor="#ED7D31", alpha=0.85, label="NLP-LLM"),
 ])
 plt.tight_layout()
-plt.savefig(f"{OUT}/f1_boxplot.png", dpi=300, transparent=True)
+plt.savefig(f"{OUT}/f1_boxplot.png", dpi=400, transparent=True)
 plt.close()
 
 # -------------------------------------
@@ -154,7 +153,7 @@ ax.set_yticks([0, 1, 2, 3, 4, 5])
 ax.yaxis.grid(True, linestyle="--", alpha=0.5, zorder=0)
 ax.set_axisbelow(True)
 plt.tight_layout()
-plt.savefig(f"{OUT}/synthetic_bar.png", dpi=150)
+plt.savefig(f"{OUT}/synthetic_bar.png", dpi=400)
 plt.close()
 
 
@@ -185,7 +184,7 @@ ax.set_yticks([1, 2, 3, 4, 5])
 ax.yaxis.grid(True, linestyle="--", alpha=0.5, zorder=0)
 ax.set_axisbelow(True)
 plt.tight_layout()
-plt.savefig(f"{OUT}/synthetic_boxplot.png", dpi=150)
+plt.savefig(f"{OUT}/synthetic_boxplot.png", dpi=400)
 plt.close()
 
 
@@ -224,5 +223,5 @@ for i in range(data.shape[0]):
 
 plt.colorbar(im, ax=ax, fraction=0.03, pad=0.02, label="F1")
 plt.tight_layout()
-plt.savefig(f"{OUT}/full_record_heatmap.png", dpi=150)
+plt.savefig(f"{OUT}/full_record_heatmap.png", dpi=400)
 plt.close()
