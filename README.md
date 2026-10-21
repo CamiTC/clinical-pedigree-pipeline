@@ -53,9 +53,6 @@ clinical-pedigree-pipeline/
 │   ├── transcripts/        # Raw transcripts (.txt)
 │   └── ground_truth/       # Ground truth file (.csv)
 ├── outputs/
-│   ├── preprocessed/       # Preprocessed transcripts (.csv)
-│   ├── nlp/                # NLP extraction output (.csv)
-│   ├── llm/                # LLM refinement output (.csv)
 │   ├── pedigrees/          # Generated pedigree charts (.png)
 │   └── evaluation/         # Evaluation results (.csv)
 ├── main.py                 # Pipeline entry point
