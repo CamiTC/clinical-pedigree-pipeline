@@ -1,0 +1,20 @@
+id,dadid,momid,sex,affected,status,label
+P0,__ph2,P2,M,0,0,"Proband
+31 y.o."
+P1,,,F,1,0,"Wife
+Miscarriage (dx. 7 weeks)"
+P2,,,F,1,0,"Mother
+60 y.o.
+Asthma
+Depression"
+P3,,,U,1,1,"Cousin Once Removed
+3 y.o.
+Tay-sachs disease (dx. 3 y.o.)"
+P4,,,M,1,0,"Grandfather
+Colon cancer (dx. 74 y.o.)"
+P5,P4,__ph1,M,1,0,"Uncle
+Stroke (dx. 70 y.o.)"
+P6,P4,__ph1,M,1,0,"Uncle
+Alcohol problems"
+__ph1,,,F,0,0,
+__ph2,,,M,0,0,

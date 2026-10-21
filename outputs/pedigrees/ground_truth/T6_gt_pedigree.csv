@@ -1,0 +1,33 @@
+id,dadid,momid,sex,affected,status,label
+P0,P4,P2,M,1,0,"Proband
+31 y.o.
+Tay-sachs disease?
+Allergies
+Appendectomy (dx. 16 y.o.)"
+P1,,,F,1,0,"Wife
+29 y.o.
+Pregnancy
+Early miscarriage"
+P2,,,F,1,0,"Mother
+60 y.o.
+Asthma
+Depression"
+P3,,,U,1,1,"Cousin Once Removed
+Tay-sachs disease (dx. 3 y.o.)
+Seizures (dx. 3 y.o.)
+Developmental regression (dx. 3 y.o.)
+Hexosaminidase a deficiency (dx. 3 y.o.)"
+P4,P7,P6,M,1,0,"Father
+63 y.o.
+High cholesterol"
+P5,P4,P2,F,0,0,"Sister
+27 y.o."
+P6,,,F,1,0,"Grandmother
+Lost vision
+Diabetes"
+P7,,,M,1,0,"Grandfather
+Colon cancer (dx. 74 y.o.)"
+P8,P7,P6,M,1,0,"Uncle
+Stroke (dx. 70 y.o.)"
+P9,P7,P6,M,1,0,"Uncle
+Alcohol problems"

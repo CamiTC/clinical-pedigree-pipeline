@@ -1,0 +1,45 @@
+id,dadid,momid,sex,affected,status,label
+P0,P2,P1,M,1,0,"Proband
+9 y.o.
+Learning problems
+Reading difficulty
+Anxiety
+Meltdowns
+Speech delay
+Large ears
+Finger hypermobility
+Fragile x syndrome?
+Adhd
+Autism?
+Asthma
+Peanut allergy
+Tonsillectomy (dx. 6 y.o.)
+Myopia"
+P1,P5,P4,F,1,0,"Mother
+38 y.o.
+Learning problems
+Miscarriage"
+P2,,,M,1,0,"Father
+40 y.o.
+High blood pressure"
+P3,P2,P1,F,1,0,"Sister
+6 y.o.
+Speech therapy"
+P4,,,F,1,0,"Grandmother
+62 y.o.
+Anxiety
+Early menopause (dx. 38 y.o.)
+Ovarian insufficiency?"
+P5,,,M,1,0,"Grandfather
+65 y.o.
+Diabetes
+High cholesterol"
+P6,P5,P4,M,1,0,"Uncle
+35 y.o.
+Intellectual disability"
+P7,,,M,1,0,"Great-Uncle
+Learning delay"
+P8,,,F,1,0,"Great-Grandmother
+Alzheimer’s"
+P9,,,F,1,0,"Great-Aunt
+Breast cancer (dx. 58 y.o.)"

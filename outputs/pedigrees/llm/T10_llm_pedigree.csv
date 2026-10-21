@@ -1,0 +1,22 @@
+id,dadid,momid,sex,affected,status,label
+P0,__ph1,__ph2,F,1,0,"Proband
+8 m.o.
+Nystagmus
+Photophobia
+Albinism?"
+P1,__ph1,__ph2,M,0,0,"Brother
+4 y.o."
+P2,,,F,1,0,"Maternal Grandmother
+56 y.o.
+Diabetes"
+P3,,,M,1,0,"Maternal Grandfather
+60 y.o.
+High blood pressure"
+P4,,,M,1,0,"Paternal Cousin Once Removed
+Poor vision"
+P5,,,M,1,0,"Maternal Great-Grandfather
+Stroke (dx. 72 y.o.)"
+P6,,,F,1,0,"Maternal Great-Aunt
+Depression"
+__ph1,,,M,0,0,
+__ph2,,,F,0,0,

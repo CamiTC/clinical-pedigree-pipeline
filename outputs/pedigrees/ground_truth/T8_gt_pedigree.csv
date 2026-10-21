@@ -1,0 +1,30 @@
+id,dadid,momid,sex,affected,status,label
+P0,P2,P1,M,1,0,"Proband
+36 y.o.
+Anxiety
+Forgetfulness
+Tremor
+Appendectomy (dx. 20 y.o.)
+Huntington’s disease?"
+P1,P5,P7,F,1,0,"Mother
+61 y.o.
+Huntington’s disease
+Chorea (dx. 55 y.o.)
+Depression
+Mood changes (dx. 55 y.o.)
+Expanded htt cag repeat"
+P2,,,M,1,0,"Father
+64 y.o.
+High blood pressure"
+P3,P2,P1,M,0,0,"Brother
+39 y.o."
+P4,P0,__ph1,F,0,0,"Daughter
+7 y.o."
+P5,,,M,1,1,"Grandfather
+Odd movements (dx. 58 y.o.)
+Alcoholism? (dx. 58 y.o.)"
+P6,P5,P7,F,1,0,"Aunt
+Depression"
+P7,,,F,1,0,"Grandmother
+Breast cancer (dx. 70 y.o.)"
+__ph1,,,F,0,0,

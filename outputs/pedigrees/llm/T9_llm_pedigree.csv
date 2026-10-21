@@ -1,0 +1,23 @@
+id,dadid,momid,sex,affected,status,label
+P0,__ph4,P1,M,1,0,"Proband
+9 y.o.
+Learning problems
+Speech delay (dx. 4 y.o.)
+Adhd
+Myopia
+Peanut allergy
+Asthma"
+P1,__ph1,__ph2,F,1,0,"Mother
+62 y.o.
+Anxiety
+Early menopause (dx. 38 y.o.)"
+P2,__ph1,__ph2,M,1,0,"Uncle
+Learning delay"
+P3,,,F,1,0,"Grandmother
+Alzheimer's"
+P4,__ph3,P3,F,1,0,"Aunt
+Breast cancer (dx. 58 y.o.)"
+__ph1,,,M,0,0,
+__ph2,,,F,0,0,
+__ph3,,,M,0,0,
+__ph4,,,M,0,0,

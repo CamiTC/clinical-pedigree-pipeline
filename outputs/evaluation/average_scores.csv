@@ -1,0 +1,19 @@
+method,task,Precision,Recall,F1
+NLP,age_at_event,0.256,0.206,0.225
+NLP,conditions,0.659,0.36,0.455
+NLP,deceased,0.628,0.485,0.542
+NLP,family_members,0.851,0.601,0.696
+NLP,full_record,0.242,0.188,0.208
+NLP,polarity,0.273,0.21,0.234
+NLP,relative_condition,0.294,0.226,0.251
+NLP,sex,0.689,0.485,0.564
+NLP,side,0.688,0.489,0.565
+NLP + LLM,age_at_event,0.771,0.475,0.579
+NLP + LLM,conditions,0.9,0.554,0.678
+NLP + LLM,deceased,0.789,0.67,0.717
+NLP + LLM,family_members,0.968,0.804,0.871
+NLP + LLM,full_record,0.732,0.447,0.547
+NLP + LLM,polarity,0.804,0.49,0.6
+NLP + LLM,relative_condition,0.826,0.505,0.618
+NLP + LLM,sex,0.924,0.762,0.828
+NLP + LLM,side,0.824,0.688,0.744

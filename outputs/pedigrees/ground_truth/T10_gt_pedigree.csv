@@ -1,0 +1,35 @@
+id,dadid,momid,sex,affected,status,label
+P0,P2,P1,F,1,0,"Proband
+8 m.o.
+Pale hair
+Nystagmus
+Photophobia
+Sun sensitivity
+Very fair skin
+Almost white hair
+Blue-grey eyes
+Albinism?"
+P1,P5,P4,F,1,0,"Mother
+30 y.o.
+Short-sighted
+Miscarriage"
+P2,,,M,1,0,"Father
+32 y.o.
+Mild asthma"
+P3,P2,P1,M,0,0,"Brother
+4 y.o."
+P4,,,F,1,0,"Grandmother
+56 y.o.
+Diabetes"
+P5,,,M,1,0,"Grandfather
+60 y.o.
+High blood pressure"
+P6,P5,P4,F,0,0,Aunt
+P7,P5,P4,F,1,0,"Aunt
+Allergies"
+P8,,,U,1,0,"Cousin Once Removed
+Pale skin
+Poor vision"
+P9,,,M,1,0,"Great-Grandfather
+Stroke (dx. 72 y.o.)
+Depression"

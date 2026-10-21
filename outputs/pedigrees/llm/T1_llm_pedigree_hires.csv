@@ -1,0 +1,41 @@
+id,dadid,momid,sex,affected,status,label
+P0,P2,P1,F,1,0,"Proband
+34 y.o.
+Burning pain in hands and feet
+Reduced sweating
+Angiokeratomas?
+Proteinuria
+Palpitations
+Left ventricular hypertrophy
+Penicillin allergy
+Miscarriage"
+P1,P8,P7,F,1,0,"Mother
+62 y.o.
+Hearing loss
+Kidney problems
+Growing pains"
+P2,__ph1,__ph2,M,1,0,"Father
+65 y.o.
+High cholesterol"
+P3,P2,P1,M,1,0,"Brother
+30 y.o.
+Stomach cramps
+Pain in feet
+Proteinuria"
+P4,__ph3,P0,F,0,0,"Daughter
+8 y.o."
+P5,__ph3,P0,F,0,0,"Daughter
+5 y.o."
+P6,P8,P7,M,1,1,"Uncle
+Kidney failure (dx. 41 y.o.)
+Stroke (dx. 41 y.o.)
+Hearing loss"
+P7,,,F,1,1,"Grandmother
+Heart disease (dx. 70 y.o.)"
+P8,,,M,1,1,"Grandfather
+Alzheimer's (dx. 80s y.o.)"
+P9,__ph1,__ph2,F,1,0,"Aunt
+Breast cancer (dx. 55 y.o.)"
+__ph1,,,M,0,0,
+__ph2,,,F,0,0,
+__ph3,,,M,0,0,

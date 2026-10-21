@@ -1,0 +1,32 @@
+id,dadid,momid,sex,affected,status,label
+P0,P2,P1,F,1,0,"Proband
+6 y.o.
+Bruising
+Factor viii deficiency
+Haemophilia a?
+Nosebleeds
+Large bruises
+Allergies
+Mild eczema"
+P1,P4,P3,F,1,0,"Mother
+34 y.o.
+Heavy periods
+Anaemia
+Depression"
+P2,,,M,1,0,"Father
+36 y.o.
+High cholesterol"
+P3,,,F,1,0,"Grandmother
+58 y.o.
+Diabetes
+Heavy bleeding"
+P4,,,M,1,1,"Grandfather
+Stroke (dx. 50 y.o.)
+High blood pressure (dx. 50 y.o.)"
+P5,P4,P3,M,1,1,"Uncle
+Intracranial haemorrhage (dx. 12 y.o.)"
+P6,P2,P1,M,0,0,"Brother
+10 y.o."
+P7,,,M,0,0,Great-Uncle
+P8,,,F,1,0,"Great-Aunt
+Breast cancer (dx. 62 y.o.)"

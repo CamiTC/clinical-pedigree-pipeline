@@ -1,0 +1,25 @@
+id,dadid,momid,sex,affected,status,label
+P0,P2,P1,F,0,0,"Proband
+6 y.o.
+Haemophilia a?"
+P1,,,F,1,0,"Mother
+34 y.o.
+Heavy periods"
+P2,,,M,1,0,"Father
+36 y.o.
+High cholesterol"
+P3,,,F,1,0,"Maternal Grandmother
+58 y.o.
+Diabetes
+Heavy bleeding (dx. 40 y.o.)"
+P4,,,M,1,1,"Maternal Grandfather
+Stroke (dx. 50 y.o.)"
+P5,,,M,1,0,"Maternal Uncle
+Needed transfusions"
+P6,,,F,1,0,"Maternal Aunt
+Breast cancer (dx. 62 y.o.)"
+P7,,,M,1,1,"Maternal Uncle
+Intracranial haemorrhage (dx. 12 y.o.)"
+P8,P2,P1,M,1,0,"Brother
+10 y.o.
+Bruises"

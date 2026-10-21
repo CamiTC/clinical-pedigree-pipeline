@@ -1,0 +1,29 @@
+id,dadid,momid,sex,affected,status,label
+P0,P2,P1,M,1,0,"Proband
+27 y.o.
+Marfan syndrome?
+Tall stature
+Joints are loose
+Ectopia lentis
+Aortic root dilation
+Palpitations
+Scoliosis
+Pectus excavatum
+Fbn1 pathogenic variant?"
+P1,,,F,1,0,"Mother
+52 y.o.
+High blood pressure
+Miscarriage"
+P2,P5,__ph1,M,1,1,"Father
+39 y.o.
+Aortic dissection"
+P3,P2,P1,F,1,0,"Sister
+24 y.o.
+Tall stature
+Joint hypermobility"
+P4,P5,__ph1,M,1,0,"Uncle
+Tall stature
+Retinal detachment (dx. 45 y.o.)"
+P5,,,M,0,1,"Grandfather
+Heart disease? (dx. 50s y.o.)"
+__ph1,,,F,0,0,

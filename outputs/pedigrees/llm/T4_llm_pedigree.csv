@@ -1,0 +1,23 @@
+id,dadid,momid,sex,affected,status,label
+P0,P1,P2,M,1,0,"Proband
+46 y.o.
+Haemochromatosis?
+Joint pain
+Atrial fibrillation (dx. 45 y.o.)"
+P1,P6,P5,M,1,1,"Father
+Liver cancer (dx. 59 y.o.)
+Cirrhosis"
+P2,,,F,1,0,"Mother
+72 y.o.
+Arthritis
+High blood pressure"
+P3,P1,P2,F,1,0,"Sister
+43 y.o.
+High cholesterol"
+P4,P6,P5,M,1,1,"Uncle
+Diabetes (dx. 68 y.o.)
+Stroke (dx. 68 y.o.)"
+P5,,,F,1,0,"Grandmother
+Colon cancer (dx. 70s y.o.)"
+P6,,,M,1,0,"Grandfather
+Dementia"

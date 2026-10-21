@@ -1,0 +1,28 @@
+id,dadid,momid,sex,affected,status,label
+P0,P3,P2,F,1,0,"Proband
+28 y.o.
+Cystic fibrosis carrier
+Sinusitis
+Hypothyroidism
+Hay fever
+Shellfish allergy"
+P2,,,F,1,0,"Mother
+55 y.o.
+Asthma
+High blood pressure"
+P3,P8,P7,M,1,0,"Father
+57 y.o.
+Diabetes
+High cholesterol"
+P4,P3,P2,M,1,0,"Brother
+24 y.o.
+Nasal polyps"
+P5,,,U,1,1,"First Cousin Once Removed
+2 y.o.
+Lung infections (dx. 2 y.o.)"
+P6,P8,P7,F,1,0,"Aunt
+Miscarriages"
+P7,,,F,1,0,"Grandmother
+Breast cancer (dx. 69 y.o.)"
+P8,,,M,1,0,"Grandfather
+Stroke (dx. 75 y.o.)"

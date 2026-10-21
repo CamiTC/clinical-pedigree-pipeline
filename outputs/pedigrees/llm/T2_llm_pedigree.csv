@@ -1,0 +1,19 @@
+id,dadid,momid,sex,affected,status,label
+P0,P2,P1,M,1,0,"Proband
+27 y.o.
+Marfan syndrome?
+Ectopia lentis
+Aortic root dilation
+Palpitations
+Scoliosis (dx. teenager y.o.)
+Pectus excavatum"
+P1,,,F,1,0,"Mother
+52 y.o.
+High blood pressure"
+P2,P4,__ph1,M,1,1,"Father
+Aortic dissection (dx. 39 y.o.)"
+P3,P4,__ph1,M,1,0,"Uncle
+Retinal detachment (dx. 45 y.o.)"
+P4,,,M,1,1,"Grandfather
+Heart disease (dx. 50s y.o.)"
+__ph1,,,F,0,0,

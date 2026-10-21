@@ -1,0 +1,32 @@
+id,dadid,momid,sex,affected,status,label
+P0,P2,P1,F,1,0,"Proband
+25 y.o.
+Easy bruising
+Joint hypermobility with subluxations
+Soft and stretchy skin
+Umbilical hernia (dx. 12 y.o.)
+Heavy periods
+Mild asthma
+Reflux
+Light-headedness
+Miscarriage (dx. 24 y.o.)"
+P1,__ph1,__ph2,F,1,0,"Mother
+49 y.o.
+Joint hypermobility
+Varicose veins
+Knee subluxation"
+P2,P6,P7,M,1,0,"Father
+52 y.o.
+Diabetes
+High cholesterol"
+P4,P2,P1,M,1,0,"Brother
+22 y.o.
+Joint hypermobility"
+P5,__ph1,__ph2,F,1,0,"Aunt
+Prolapse after childbirth"
+P6,,,M,1,1,"Grandfather
+Stroke (dx. 78 y.o.)"
+P7,,,F,1,0,"Grandmother
+Breast cancer (dx. 63 y.o.)"
+__ph1,,,M,0,0,
+__ph2,,,F,0,0,

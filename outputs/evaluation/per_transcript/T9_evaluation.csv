@@ -1,0 +1,19 @@
+method,task,TP,FP,FN,Precision,Recall,F1,transcript_id
+NLP,family_members,3,2,7,0.6,0.3,0.4,T9
+NLP,conditions,4,2,22,0.667,0.154,0.25,T9
+NLP,relative_condition,1,6,28,0.143,0.034,0.056,T9
+NLP,side,2,3,8,0.4,0.2,0.267,T9
+NLP,polarity,1,6,28,0.143,0.034,0.056,T9
+NLP,deceased,3,2,7,0.6,0.3,0.4,T9
+NLP,sex,2,3,8,0.4,0.2,0.267,T9
+NLP,age_at_event,1,7,28,0.125,0.034,0.054,T9
+NLP,full_record,1,6,28,0.143,0.034,0.056,T9
+NLP + LLM,family_members,4,1,6,0.8,0.4,0.533,T9
+NLP + LLM,conditions,10,1,16,0.909,0.385,0.541,T9
+NLP + LLM,relative_condition,6,5,23,0.545,0.207,0.3,T9
+NLP + LLM,side,3,2,7,0.6,0.3,0.4,T9
+NLP + LLM,polarity,6,5,23,0.545,0.207,0.3,T9
+NLP + LLM,deceased,4,1,6,0.8,0.4,0.533,T9
+NLP + LLM,sex,4,1,6,0.8,0.4,0.533,T9
+NLP + LLM,age_at_event,5,6,24,0.455,0.172,0.25,T9
+NLP + LLM,full_record,6,5,23,0.545,0.207,0.3,T9

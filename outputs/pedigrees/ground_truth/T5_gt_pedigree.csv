@@ -1,0 +1,35 @@
+id,dadid,momid,sex,affected,status,label
+P0,P2,P1,F,1,0,"Proband
+25 y.o.
+Skin bruises
+Joint hypermobility with subluxations
+Shoulder dislocation
+Soft and stretchy skin
+Scars spread wide
+Umbilical hernia (dx. 12 y.o.)
+Heavy periods
+Allergies
+Mild asthma
+Reflux
+Light-headedness when standing
+Early miscarriage
+Ehlers-danlos syndrome?"
+P1,P5,P6,F,1,0,"Mother
+49 y.o.
+Joint hypermobility
+Varicose veins
+Kneecap slipped
+Premature labour"
+P2,,,M,1,0,"Father
+52 y.o.
+Diabetes
+High cholesterol"
+P3,P2,P1,M,1,0,"Brother
+22 y.o.
+Finger hypermobility"
+P4,P5,P6,F,1,0,"Aunt
+Prolapse after childbirth"
+P5,,,M,1,1,"Grandfather
+Stroke (dx. 78 y.o.)"
+P6,,,F,1,0,"Grandmother
+Breast cancer (dx. 63 y.o.)"
